@@ -1016,6 +1016,14 @@
     "label": "PARTIAL_ATTEMPT"
   },
   {
+    "transcript": "wamblo",
+    "target_word": "apple",
+    "latency": 0.84,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "NEOLOGISM"
+  },
+  {
     "transcript": "It's a table.",
     "target_word": "chair",
     "latency": 0.92,
@@ -1086,6 +1094,14 @@
     "asr_confidence": 0.0,
     "speech_detected": true,
     "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "klato",
+    "target_word": "auto",
+    "latency": 0.95,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "NEOLOGISM"
   },
   {
     "transcript": "It's a car.",
@@ -1190,6 +1206,14 @@
     "asr_confidence": 0.0,
     "speech_detected": false,
     "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "corf",
+    "target_word": "car",
+    "latency": 0.79,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "NEOLOGISM"
   },
   {
     "transcript": "It's a share.",
@@ -1424,6 +1448,14 @@
     "label": "PHONOLOGICAL_ERROR"
   },
   {
+    "transcript": "sheel",
+    "target_word": "chair",
+    "latency": 1.04,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "NEOLOGISM"
+  },
+  {
     "transcript": "",
     "target_word": "apple",
     "latency": 5.47,
@@ -1576,7 +1608,7 @@
     "label": "PARTIAL_ATTEMPT"
   },
   {
-    "transcript": "— A taxi?",
+    "transcript": "\u2014 A taxi?",
     "target_word": "car",
     "latency": 1.05,
     "asr_confidence": 0.0,
@@ -1584,7 +1616,7 @@
     "label": "SEMANTIC_ERROR"
   },
   {
-    "transcript": "Fangما attacked naro",
+    "transcript": "Fang\u0645\u0627 attacked naro",
     "target_word": "car",
     "latency": 1.27,
     "asr_confidence": 0.0,

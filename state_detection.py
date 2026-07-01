@@ -162,11 +162,11 @@ def detect_error_type(
         return ErrorType.CORRECT
 
     # circumlocution 
-    if _is_circumlocution(words, best_sim, g_clean) and best_pho < 0.55:
+    if _is_circumlocution(words, best_sim, g_clean) and best_pho < 0.50:
         return ErrorType.CIRCUMLOCUTION
 
     # phonological 
-    if best_pho >= 0.60:
+    if best_pho >= 0.50:
         return ErrorType.PHONOLOGICAL_ERROR
 
     # semantic 

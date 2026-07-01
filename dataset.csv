@@ -126,6 +126,7 @@ It's a vehicle.,car,0.95,0.0,True,SEMANTIC_ERROR
 ,tree,0.94,0.0,False,UNINTELLIGIBLE
 with a plant.,tree,0.91,0.0,True,SEMANTIC_ERROR
 "Um, it's um, um, t, t.",tree,2.29,0.0,True,PARTIAL_ATTEMPT
+wamblo,apple,0.84,0.0,True,NEOLOGISM
 It's a table.,chair,0.92,0.0,True,SEMANTIC_ERROR
 It's like a share,chair,0.64,0.0,True,PHONOLOGICAL_ERROR
 Like a chair.,chair,3.98,0.0,True,CORRECT
@@ -135,6 +136,7 @@ Um It's,apple,1.47,0.0,True,PARTIAL_ATTEMPT
 Is it an apple?,apple,2.74,0.0,True,CORRECT
 It's a vehicle.,car,1.91,0.0,True,SEMANTIC_ERROR
 it's like an auto,car,1.61,0.0,True,SEMANTIC_ERROR
+klato,auto,0.95,0.0,True,NEOLOGISM
 It's a car.,car,1.74,0.0,True,CORRECT
 It's like a plant.,tree,1.12,0.0,True,SEMANTIC_ERROR
 Like um... like um... like um... a bee.,tree,1.71,0.0,True,PHONOLOGICAL_ERROR
@@ -148,6 +150,7 @@ It's like a bar.,car,1.02,0.0,True,PHONOLOGICAL_ERROR
 "Oh, it's like the plant you find in a park.",tree,1.02,0.0,True,CIRCUMLOCUTION
 It's a tea?,tree,0.76,0.0,True,PHONOLOGICAL_ERROR
 ,chair,1.02,0.0,False,UNINTELLIGIBLE
+corf,car,0.79,0.0,True,NEOLOGISM
 It's a share.,chair,1.09,0.0,True,PHONOLOGICAL_ERROR
 "Sorry, sorry, hi.",chair,0.76,0.0,True,PARTIAL_ATTEMPT
 It's a chair.,chair,1.03,0.0,True,CORRECT
@@ -177,6 +180,7 @@ Yoo-hoo! It's a ti ti ti ti ti ti! Subscribe to Bikini Clips!,tree,1.09,0.0,True
 It's free.,tree,1.11,0.0,True,PHONOLOGICAL_ERROR
 Judy in the background. Tree.,tree,0.81,0.0,True,CORRECT
 There,chair,1.02,0.0,True,PHONOLOGICAL_ERROR
+sheel,chair,1.04,0.0,True,NEOLOGISM
 ,apple,5.47,0.0,False,SILENCE
 "Uh, just... Um...",apple,1.18,0.0,True,PARTIAL_ATTEMPT
 Banana,apple,2.02,0.0,True,SEMANTIC_ERROR

@@ -21,7 +21,7 @@ SILENCE_CHUNK_SIZE = 1024
 RESPONSE_LATENCY_THRESHOLD = 15.0 
 
 # similarity thresholds
-STRING_CORRECT_THRESHOLD  = 0.75   # character-level match
+STRING_CORRECT_THRESHOLD  = 0.85   # character-level match
 SEMANTIC_LOW_THRESHOLD    = 0.50   # embedding cosine similarity lower bound
 SEMANTIC_HIGH_THRESHOLD   = 0.90   # upper bound (above this overlaps with string match)
 
