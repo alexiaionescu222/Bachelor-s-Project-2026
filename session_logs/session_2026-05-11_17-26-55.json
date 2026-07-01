@@ -1,0 +1,142 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 344,
+    "mean_attempts_to_correct": 2.25,
+    "feedback_distribution": {
+      "ELI": 1,
+      "CON": 4,
+      "ELI_CIR": 1,
+      "SEM": 1,
+      "PHO": 1,
+      "ELI_SEM": 1
+    },
+    "error_type_distribution": {
+      "PARTIAL_ATTEMPT": 3,
+      "CORRECT": 4,
+      "CIRCUMLOCUTION": 1,
+      "SEMANTIC_ERROR": 1
+    },
+    "cue_effectiveness": {
+      "ELI": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      },
+      "ELI_CIR": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      },
+      "SEM": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      },
+      "PHO": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      },
+      "ELI_SEM": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778512941.43,
+      "transcript": "is it like 4?",
+      "latency": 1.13,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "fork",
+      "attempt": 2,
+      "timestamp": 1778512966.59,
+      "transcript": "Is it a fork? Maybe.",
+      "latency": 5.17,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778513037.548,
+      "transcript": "Oh Ch-Ch-Ch-Ch-Chair Make-Chair-Chair",
+      "latency": 0.95,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778513070.359,
+      "transcript": "the thing you use when it's like raining",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 2,
+      "timestamp": 1778513094.831,
+      "transcript": "It's um, I'm uh, um, um, uh.",
+      "latency": 0.79,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 3,
+      "timestamp": 1778513114.581,
+      "transcript": "Yeah, it's like, I'm, I'm, I'm all...",
+      "latency": 3.22,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 4,
+      "timestamp": 1778513132.97,
+      "transcript": "Oh, is it like an umbrella?",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778513173.487,
+      "transcript": "that is like a thing you ring ring people with",
+      "latency": 1.53,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "telephone",
+      "attempt": 2,
+      "timestamp": 1778513194.903,
+      "transcript": "Maybe like a phone.",
+      "latency": 0.77,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "item_01",
+    "target_word": "apple",
+    "accepted_answers": ["apple"],
+    "display_label": "Show picture: apple",
+    "semantic_hint": "It is a fruit. It grows on a tree. It keeps doctors away."
+  },
+  {
+    "id": "item_02",
+    "target_word": "car",
+    "accepted_answers": ["car", "automobile"],
+    "display_label": "Show picture: car",
+    "semantic_hint": "You use it to travel. It has four wheels and an engine."
+  },
+  {
+    "id": "item_03",
+    "target_word": "tree",
+    "accepted_answers": ["tree"],
+    "display_label": "Show picture: tree",
+    "semantic_hint": "You find this in a park. It is tall and it has leaves."
+  },
+  {
+    "id": "item_04",
+    "target_word": "chair",
+    "accepted_answers": ["chair"],
+    "display_label": "Show picture: chair",
+    "semantic_hint": "It is a piece of furniture. You sit on it at the table."
+  }
+]

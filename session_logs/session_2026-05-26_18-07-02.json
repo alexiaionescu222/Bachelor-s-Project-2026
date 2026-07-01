@@ -1,0 +1,154 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 349,
+    "feedback_distribution": {
+      "ELI_SEM": 3,
+      "ELI_CIR": 2,
+      "PHO": 1,
+      "CON": 4,
+      "SEM": 2,
+      "ELI_PHO": 1
+    },
+    "error_type_distribution": {
+      "SEMANTIC_ERROR": 4,
+      "CIRCUMLOCUTION": 2,
+      "PARTIAL_ATTEMPT": 2,
+      "CORRECT": 4,
+      "PHONOLOGICAL_ERROR": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1779811350.405,
+      "transcript": "It's a fruit.",
+      "latency": 0.99,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1779811368.897,
+      "transcript": "it's like the red the red thing you eat",
+      "latency": 1.41,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1779811396.025,
+      "transcript": "Um It's",
+      "latency": 1.47,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "apple",
+      "attempt": 4,
+      "timestamp": 1779811410.322,
+      "transcript": "Is it an apple?",
+      "latency": 2.74,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1779811437.77,
+      "transcript": "It's a vehicle.",
+      "latency": 1.91,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1779811453.754,
+      "transcript": "it's like an auto",
+      "latency": 1.61,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "car",
+      "attempt": 3,
+      "timestamp": 1779811468.312,
+      "transcript": "It's a car.",
+      "latency": 1.74,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1779811499.09,
+      "transcript": "It's like a plant.",
+      "latency": 1.12,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1779811528.189,
+      "transcript": "Like um... like um... like um... a bee.",
+      "latency": 1.71,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1779811539.737,
+      "transcript": "It's a tree.",
+      "latency": 1.91,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1779811565.121,
+      "transcript": "It's a share.",
+      "latency": 0.9,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_PHO"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1779811582.918,
+      "transcript": "It's um... um...",
+      "latency": 2.49,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1779811597.785,
+      "transcript": "It's a chair.",
+      "latency": 3.06,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 529,
+    "mean_attempts_to_correct": 1.5,
+    "feedback_distribution": {
+      "CON": 4,
+      "ELI": 2
+    },
+    "error_type_distribution": {
+      "CORRECT": 4,
+      "PARTIAL_ATTEMPT": 2
+    },
+    "cue_effectiveness": {
+      "ELI": {
+        "resolved": 2,
+        "total": 2,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "appel",
+      "attempt": 1,
+      "timestamp": 1778857973.778,
+      "transcript": "Het is net een appel. Het is net een appel.",
+      "latency": 1.65,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "auto",
+      "attempt": 1,
+      "timestamp": 1778858082.398,
+      "transcript": "Het is het voertuig waarmee je op straat rijdt.",
+      "latency": 1.32,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "auto",
+      "attempt": 2,
+      "timestamp": 1778858098.622,
+      "transcript": "Het is auto.",
+      "latency": 1.46,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "boom",
+      "attempt": 1,
+      "timestamp": 1778858188.646,
+      "transcript": "Is... een poem?",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "boom",
+      "attempt": 2,
+      "timestamp": 1778858221.615,
+      "transcript": "Bock",
+      "latency": 2.29,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "stoel",
+      "attempt": 1,
+      "timestamp": 1778858318.664,
+      "transcript": "Het is... Stil.",
+      "latency": 0.99,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

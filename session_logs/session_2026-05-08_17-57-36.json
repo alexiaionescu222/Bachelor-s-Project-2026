@@ -1,0 +1,86 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 306,
+    "mean_attempts_to_correct": 1.25,
+    "feedback_distribution": {
+      "CON": 4,
+      "ELI_SEM": 1
+    },
+    "error_type_distribution": {
+      "CORRECT": 4,
+      "SEMANTIC_ERROR": 1
+    },
+    "cue_effectiveness": {
+      "ELI_SEM": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778255695.304,
+      "transcript": "it's like um like a full fork",
+      "latency": 0.98,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778255733.962,
+      "transcript": "The thing you sit on when you're tired.",
+      "latency": 1.05,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_SEM",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1778255759.443,
+      "transcript": "It's a chair.",
+      "latency": 1.56,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778255792.173,
+      "transcript": "Umbrella.",
+      "latency": 1.33,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778255835.525,
+      "transcript": "That's way more than you are in my view. I'm going to say that right now. I'm over here just doing the di-pod. Alright, as long as you don't show the dark. Um, the phone?",
+      "latency": 2.03,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    }
+  ]
+}

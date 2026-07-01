@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 309,
+    "feedback_distribution": {
+      "ELI_SEM": 2,
+      "SEM": 2,
+      "CON": 4,
+      "ELI_PHO": 1
+    },
+    "error_type_distribution": {
+      "SEMANTIC_ERROR": 2,
+      "PARTIAL_ATTEMPT": 2,
+      "CORRECT": 4,
+      "PHONOLOGICAL_ERROR": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1779809063.784,
+      "transcript": "Is it a banana?",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1779809084.908,
+      "transcript": "It's a it's it's an L",
+      "latency": 2.74,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1779809104.597,
+      "transcript": "Oh, it's like, um, like, like an apple.",
+      "latency": 1.38,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1779809132.228,
+      "transcript": "It's a bush.",
+      "latency": 0.87,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_PHO"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1779809154.628,
+      "transcript": "It's a car.",
+      "latency": 3.7,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1779809181.425,
+      "transcript": "It's a plant.",
+      "latency": 0.87,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1779809223.174,
+      "transcript": "it's it's like like um like um oftentimes",
+      "latency": 0.7,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1779809242.321,
+      "transcript": "Hmm. It's um, a tree.",
+      "latency": 2.7,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1779809269.68,
+      "transcript": "It's like um a hair",
+      "latency": 2.49,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "CON"
+    }
+  ]
+}

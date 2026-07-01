@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 501,
+    "mean_attempts_to_correct": 1.25,
+    "feedback_distribution": {
+      "CON": 4,
+      "ELI_SEM": 1
+    },
+    "error_type_distribution": {
+      "CORRECT": 4,
+      "SEMANTIC_ERROR": 1
+    },
+    "cue_effectiveness": {
+      "ELI_SEM": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1778852314.08,
+      "transcript": "Shhh. Uh, apple?",
+      "latency": 1.0,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1778852399.51,
+      "transcript": "I think you drive it",
+      "latency": 0.98,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1778852414.902,
+      "transcript": "It's um, car.",
+      "latency": 1.38,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1778852532.84,
+      "transcript": "It's... it's um... it's um like um... tree.",
+      "latency": 2.85,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778852619.548,
+      "transcript": "It's like I'm a chair.",
+      "latency": 2.27,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

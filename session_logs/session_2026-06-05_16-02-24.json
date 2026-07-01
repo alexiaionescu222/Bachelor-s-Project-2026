@@ -1,0 +1,108 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 265,
+    "feedback_distribution": {
+      "ELI": 2,
+      "CON": 4,
+      "ELI_PHO": 1,
+      "PHO": 1
+    },
+    "error_type_distribution": {
+      "PARTIAL_ATTEMPT": 2,
+      "CORRECT": 4,
+      "PHONOLOGICAL_ERROR": 2
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1780667964.915,
+      "transcript": "It's an echo.",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1780667981.986,
+      "transcript": "It's an apple.",
+      "latency": 0.76,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1780668008.905,
+      "transcript": "Is it a crop?",
+      "latency": 1.05,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1780668020.826,
+      "transcript": "afar",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1780668047.992,
+      "transcript": "It's a true",
+      "latency": 1.05,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "ELI_PHO"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1780668062.77,
+      "transcript": "It's a re.",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1780668078.217,
+      "transcript": "Um... It's a tree?",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1780668120.215,
+      "transcript": "Chair.",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

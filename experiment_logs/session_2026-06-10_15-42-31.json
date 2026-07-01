@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "items_correct": 2,
+    "items_total": 4,
+    "session_duration_s": 430,
+    "feedback_distribution": {
+      "ELI": 2,
+      "PHO": 4,
+      "CON": 2,
+      "CLR": 3,
+      "ELI_SEM": 1,
+      "SEM": 2,
+      "EXP": 1
+    },
+    "error_type_distribution": {
+      "PARTIAL_ATTEMPT": 8,
+      "PHONOLOGICAL_ERROR": 1,
+      "CORRECT": 2,
+      "UNINTELLIGIBLE": 3,
+      "SEMANTIC_ERROR": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1781098642.499,
+      "transcript": "just so parents",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1781098654.861,
+      "transcript": "disappear.",
+      "latency": 1.02,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1781098670.011,
+      "transcript": "Is it an orange?",
+      "latency": 0.75,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "apple",
+      "attempt": 4,
+      "timestamp": 1781098691.623,
+      "transcript": "Apple? Apple?",
+      "latency": 0.79,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1781098714.837,
+      "transcript": "",
+      "latency": 1.03,
+      "asr_confidence": 0.0,
+      "error_type": "UNINTELLIGIBLE",
+      "error_type_rb": "UNINTELLIGIBLE",
+      "feedback_given": "CLR",
+      "gold_label": "UNINTELLIGIBLE"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1781098730.55,
+      "transcript": "",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "UNINTELLIGIBLE",
+      "error_type_rb": "UNINTELLIGIBLE",
+      "feedback_given": "CLR",
+      "gold_label": "UNINTELLIGIBLE"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1781098749.093,
+      "transcript": "A park",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1781098777.546,
+      "transcript": "you",
+      "latency": 0.74,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1781098822.382,
+      "transcript": "Bit and void. m calls again e",
+      "latency": 1.03,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1781098832.681,
+      "transcript": "",
+      "latency": 0.99,
+      "asr_confidence": 0.0,
+      "error_type": "UNINTELLIGIBLE",
+      "error_type_rb": "UNINTELLIGIBLE",
+      "feedback_given": "CLR",
+      "gold_label": "UNINTELLIGIBLE"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1781098846.698,
+      "transcript": "three",
+      "latency": 0.99,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1781098871.87,
+      "transcript": "So",
+      "latency": 1.06,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1781098901.322,
+      "transcript": "Seat.",
+      "latency": 0.74,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1781098922.176,
+      "transcript": "I don't know.",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "chair",
+      "attempt": 4,
+      "timestamp": 1781098933.341,
+      "transcript": "Thank you.",
+      "latency": 0.74,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "EXP",
+      "gold_label": "PARTIAL_ATTEMPT"
+    }
+  ]
+}

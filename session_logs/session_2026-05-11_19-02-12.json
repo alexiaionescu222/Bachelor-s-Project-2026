@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "items_correct": 3,
+    "items_total": 4,
+    "accuracy_pct": 75,
+    "session_duration_s": 291,
+    "mean_attempts_to_correct": 2.33,
+    "feedback_distribution": {
+      "ELI": 1,
+      "CON": 3,
+      "ELI_PHO": 1,
+      "PHO": 2,
+      "EXP": 1,
+      "WAIT": 2,
+      "SEM": 1
+    },
+    "error_type_distribution": {
+      "PARTIAL_ATTEMPT": 4,
+      "CORRECT": 3,
+      "PHONOLOGICAL_ERROR": 1,
+      "NEOLOGISM": 1,
+      "SILENCE": 2
+    },
+    "cue_effectiveness": {
+      "ELI": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      },
+      "ELI_PHO": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      },
+      "PHO": {
+        "resolved": 0,
+        "total": 2,
+        "pct": 0
+      },
+      "WAIT": {
+        "resolved": 1,
+        "total": 2,
+        "pct": 50
+      },
+      "SEM": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778518740.58,
+      "transcript": "Oh",
+      "latency": 0.91,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "fork",
+      "attempt": 2,
+      "timestamp": 1778518771.088,
+      "transcript": "ANNA Fin bru Bunping now Anna it is a fork",
+      "latency": 0.76,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778518795.988,
+      "transcript": "It's a share.",
+      "latency": 0.89,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_PHO"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1778518809.786,
+      "transcript": "Zashar",
+      "latency": 0.7,
+      "asr_confidence": 0.0,
+      "error_type": "NEOLOGISM",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1778518823.474,
+      "transcript": "4 4",
+      "latency": 0.64,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "chair",
+      "attempt": 4,
+      "timestamp": 1778518832.34,
+      "transcript": "you",
+      "latency": 0.74,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "EXP"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778518848.578,
+      "transcript": "",
+      "latency": 1.68,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "WAIT"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 2,
+      "timestamp": 1778518861.667,
+      "transcript": "Umbrella.",
+      "latency": 2.27,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778518885.959,
+      "transcript": "",
+      "latency": 2.39,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "WAIT"
+    },
+    {
+      "item": "telephone",
+      "attempt": 2,
+      "timestamp": 1778518897.637,
+      "transcript": "Fawn.",
+      "latency": 1.85,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "telephone",
+      "attempt": 3,
+      "timestamp": 1778518912.529,
+      "transcript": "Yes, it is a phone.",
+      "latency": 0.69,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

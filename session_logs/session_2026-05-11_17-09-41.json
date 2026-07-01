@@ -1,0 +1,174 @@
+{
+  "summary": {
+    "items_correct": 2,
+    "items_total": 4,
+    "accuracy_pct": 50,
+    "session_duration_s": 289,
+    "mean_attempts_to_correct": 2.0,
+    "feedback_distribution": {
+      "CLR": 1,
+      "SEM": 3,
+      "PHO": 2,
+      "EXP": 2,
+      "CON": 2,
+      "ELI_CIR": 1,
+      "ELI": 1
+    },
+    "error_type_distribution": {
+      "UNINTELLIGIBLE": 1,
+      "SILENCE": 5,
+      "CIRCUMLOCUTION": 2,
+      "CORRECT": 2,
+      "PARTIAL_ATTEMPT": 2
+    },
+    "cue_effectiveness": {
+      "CLR": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      },
+      "SEM": {
+        "resolved": 1,
+        "total": 3,
+        "pct": 33
+      },
+      "PHO": {
+        "resolved": 0,
+        "total": 2,
+        "pct": 0
+      },
+      "ELI_CIR": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      },
+      "ELI": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778511969.959,
+      "transcript": "",
+      "latency": 1.0,
+      "asr_confidence": 0.0,
+      "error_type": "UNINTELLIGIBLE",
+      "feedback_given": "CLR"
+    },
+    {
+      "item": "fork",
+      "attempt": 2,
+      "timestamp": 1778511985.002,
+      "transcript": "",
+      "latency": 0.0,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "fork",
+      "attempt": 3,
+      "timestamp": 1778512011.405,
+      "transcript": "Is it on a spoon?",
+      "latency": 2.37,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "fork",
+      "attempt": 4,
+      "timestamp": 1778512018.587,
+      "transcript": "",
+      "latency": 0.0,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "EXP"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778512039.243,
+      "transcript": "A chair.",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778512074.012,
+      "transcript": "Is it like the thing you use when it's raining?",
+      "latency": 3.47,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 2,
+      "timestamp": 1778512080.749,
+      "transcript": "",
+      "latency": 0.0,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 3,
+      "timestamp": 1778512101.278,
+      "transcript": "Um, it's like an umbrella.",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778512131.103,
+      "transcript": "fo- fo- fo- fo- fo-",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "telephone",
+      "attempt": 2,
+      "timestamp": 1778512137.509,
+      "transcript": "",
+      "latency": 0.0,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "telephone",
+      "attempt": 3,
+      "timestamp": 1778512161.226,
+      "transcript": "is it like like",
+      "latency": 1.47,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "telephone",
+      "attempt": 4,
+      "timestamp": 1778512168.406,
+      "transcript": "",
+      "latency": 0.0,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "feedback_given": "EXP"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 280,
+    "feedback_distribution": {
+      "CON": 4,
+      "ELI_SEM": 1,
+      "ELI_CIR": 2,
+      "CLR": 1,
+      "ELI": 1,
+      "SEM": 1
+    },
+    "error_type_distribution": {
+      "CORRECT": 4,
+      "SEMANTIC_ERROR": 1,
+      "CIRCUMLOCUTION": 1,
+      "PARTIAL_ATTEMPT": 3,
+      "UNINTELLIGIBLE": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1779117491.665,
+      "transcript": "It's an apple.",
+      "latency": 0.99,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1779117518.619,
+      "transcript": "It's a vehicle.",
+      "latency": 1.25,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1779117532.778,
+      "transcript": "It's like a car.",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1779117566.384,
+      "transcript": "It's like the plant you find in a park.",
+      "latency": 1.06,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1779117582.807,
+      "transcript": "It's a car.",
+      "latency": 1.0,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1779117594.94,
+      "transcript": "It's a tree.",
+      "latency": 0.81,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1779117620.073,
+      "transcript": "",
+      "latency": 1.57,
+      "asr_confidence": 0.0,
+      "error_type": "UNINTELLIGIBLE",
+      "feedback_given": "CLR"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1779117637.306,
+      "transcript": "you",
+      "latency": 1.38,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1779117649.245,
+      "transcript": "you",
+      "latency": 0.81,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1779117665.762,
+      "transcript": "It's like a chair.",
+      "latency": 1.34,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

@@ -1,0 +1,1994 @@
+[
+  {
+    "transcript": "this is high force",
+    "target_word": "fork",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it a chair?",
+    "target_word": "chair",
+    "latency": 1.32,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "You",
+    "target_word": "umbrella",
+    "latency": 1.41,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it an umbrella maybe?",
+    "target_word": "umbrella",
+    "latency": 1.06,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "the thing you ring people with",
+    "target_word": "telephone",
+    "latency": 4.35,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "You call people with that and talk to them?",
+    "target_word": "telephone",
+    "latency": 1.6,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Yes, it's like a phone.",
+    "target_word": "telephone",
+    "latency": 3.86,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Take a fork.",
+    "target_word": "fork",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like the thing is sits sit on",
+    "target_word": "chair",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's maybe like a chair.",
+    "target_word": "chair",
+    "latency": 1.93,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "like a rain rain thing",
+    "target_word": "umbrella",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's like, um... Um, um, um, um...",
+    "target_word": "umbrella",
+    "latency": 1.83,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it like an umbrella?",
+    "target_word": "umbrella",
+    "latency": 2.44,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "So, so, so...",
+    "target_word": "telephone",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's like a phone.",
+    "target_word": "telephone",
+    "latency": 1.21,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "it's like um like a full fork",
+    "target_word": "fork",
+    "latency": 0.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "The thing you sit on when you're tired.",
+    "target_word": "chair",
+    "latency": 1.05,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's a chair.",
+    "target_word": "chair",
+    "latency": 1.56,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Umbrella.",
+    "target_word": "umbrella",
+    "latency": 1.33,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "That's way more than you are in my view. I'm going to say that right now. I'm over here just doing the di-pod. Alright, as long as you don't show the dark. Um, the phone?",
+    "target_word": "telephone",
+    "latency": 2.03,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "",
+    "target_word": "fork",
+    "latency": 2.59,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "Is it like a fork?",
+    "target_word": "fork",
+    "latency": 1.68,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Maybe like a table.",
+    "target_word": "chair",
+    "latency": 1.04,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's like a chair.",
+    "target_word": "chair",
+    "latency": 2.97,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like um like um umbrella",
+    "target_word": "umbrella",
+    "latency": 2.26,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like a thing you call people on, something like that.",
+    "target_word": "telephone",
+    "latency": 5.37,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's like a phone.",
+    "target_word": "telephone",
+    "latency": 1.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "",
+    "target_word": "fork",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "",
+    "target_word": "fork",
+    "latency": 0.0,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "Is it on a spoon?",
+    "target_word": "fork",
+    "latency": 2.37,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "A chair.",
+    "target_word": "chair",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it like the thing you use when it's raining?",
+    "target_word": "umbrella",
+    "latency": 3.47,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "",
+    "target_word": "umbrella",
+    "latency": 0.0,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "Um, it's like an umbrella.",
+    "target_word": "umbrella",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "fo- fo- fo- fo- fo-",
+    "target_word": "telephone",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "",
+    "target_word": "telephone",
+    "latency": 0.0,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "is it like like",
+    "target_word": "telephone",
+    "latency": 1.47,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "is it like 4?",
+    "target_word": "fork",
+    "latency": 1.13,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it a fork? Maybe.",
+    "target_word": "fork",
+    "latency": 5.17,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Oh Ch-Ch-Ch-Ch-Chair Make-Chair-Chair",
+    "target_word": "chair",
+    "latency": 0.95,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "the thing you use when it's like raining",
+    "target_word": "umbrella",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's um, I'm uh, um, um, uh.",
+    "target_word": "umbrella",
+    "latency": 0.79,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Yeah, it's like, I'm, I'm, I'm all...",
+    "target_word": "umbrella",
+    "latency": 3.22,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Oh, is it like an umbrella?",
+    "target_word": "umbrella",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "that is like a thing you ring ring people with",
+    "target_word": "telephone",
+    "latency": 1.53,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Maybe like a phone.",
+    "target_word": "telephone",
+    "latency": 0.77,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it Medien markings, a typo?",
+    "target_word": "fork",
+    "latency": 1.69,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "is it? i'm like a a fa.. fi.. fa...",
+    "target_word": "fork",
+    "latency": 1.84,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Oh, it's like, fork, fork, fork.",
+    "target_word": "fork",
+    "latency": 6.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "um it's um cha cha cha cha",
+    "target_word": "chair",
+    "latency": 1.47,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "and the thing you use umbrella",
+    "target_word": "umbrella",
+    "latency": 1.15,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like a phone.",
+    "target_word": "telephone",
+    "latency": 3.19,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Oh",
+    "target_word": "fork",
+    "latency": 0.91,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "ANNA Fin bru Bunping now Anna it is a fork",
+    "target_word": "fork",
+    "latency": 0.76,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a share.",
+    "target_word": "chair",
+    "latency": 0.89,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Zashar",
+    "target_word": "chair",
+    "latency": 0.7,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "NEOLOGISM"
+  },
+  {
+    "transcript": "4 4",
+    "target_word": "chair",
+    "latency": 0.64,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "you",
+    "target_word": "chair",
+    "latency": 0.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "",
+    "target_word": "umbrella",
+    "latency": 1.68,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "Umbrella.",
+    "target_word": "umbrella",
+    "latency": 2.27,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "",
+    "target_word": "telephone",
+    "latency": 2.39,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "Fawn.",
+    "target_word": "telephone",
+    "latency": 1.85,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Yes, it is a phone.",
+    "target_word": "telephone",
+    "latency": 0.69,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "like the thing you eat with",
+    "target_word": "fork",
+    "latency": 0.88,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "like a spoon",
+    "target_word": "fork",
+    "latency": 0.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Is it like a fork?",
+    "target_word": "fork",
+    "latency": 1.6,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Like a chair.",
+    "target_word": "chair",
+    "latency": 1.29,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it um an umbrella?",
+    "target_word": "umbrella",
+    "latency": 0.88,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Some like a thing you call someone with",
+    "target_word": "telephone",
+    "latency": 0.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Um, a full full...",
+    "target_word": "telephone",
+    "latency": 2.11,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it like a phone?",
+    "target_word": "telephone",
+    "latency": 1.73,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Shhh. Uh, apple?",
+    "target_word": "apple",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "I think you drive it",
+    "target_word": "car",
+    "latency": 0.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's um, car.",
+    "target_word": "car",
+    "latency": 1.38,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's... it's um... it's um like um... tree.",
+    "target_word": "tree",
+    "latency": 2.85,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like I'm a chair.",
+    "target_word": "chair",
+    "latency": 2.27,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Het is net een appel. Het is net een appel.",
+    "target_word": "appel",
+    "latency": 1.65,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Het is het voertuig waarmee je op straat rijdt.",
+    "target_word": "auto",
+    "latency": 1.32,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Het is auto.",
+    "target_word": "auto",
+    "latency": 1.46,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is... een poem?",
+    "target_word": "boom",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Bock",
+    "target_word": "boom",
+    "latency": 2.29,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Het is... Stil.",
+    "target_word": "stoel",
+    "latency": 0.99,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it an ammo?",
+    "target_word": "apple",
+    "latency": 1.38,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "like the thing you eat, like the fruit",
+    "target_word": "apple",
+    "latency": 2.59,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "um it's like um app apple",
+    "target_word": "apple",
+    "latency": 8.3,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like a vehicle.",
+    "target_word": "car",
+    "latency": 1.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's like a bar.",
+    "target_word": "car",
+    "latency": 4.81,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Um.. It's um...",
+    "target_word": "tree",
+    "latency": 0.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's like a bee.",
+    "target_word": "tree",
+    "latency": 1.83,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "it's like a like a key",
+    "target_word": "tree",
+    "latency": 2.6,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Oh, it's a tree!",
+    "target_word": "tree",
+    "latency": 0.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "So, like a... A hit there.",
+    "target_word": "chair",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "it's a torture",
+    "target_word": "chair",
+    "latency": 2.66,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a chair.",
+    "target_word": "chair",
+    "latency": 1.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Um, it's an apple.",
+    "target_word": "apple",
+    "latency": 1.4,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like a car.",
+    "target_word": "car",
+    "latency": 1.03,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's um... I don't know.",
+    "target_word": "tree",
+    "latency": 1.54,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a plant.",
+    "target_word": "tree",
+    "latency": 1.38,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's a tree.",
+    "target_word": "tree",
+    "latency": 2.08,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Chair.",
+    "target_word": "chair",
+    "latency": 1.08,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's an apple.",
+    "target_word": "apple",
+    "latency": 0.99,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a vehicle.",
+    "target_word": "car",
+    "latency": 1.25,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's like a car.",
+    "target_word": "car",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like the plant you find in a park.",
+    "target_word": "tree",
+    "latency": 1.06,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's a car.",
+    "target_word": "tree",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a tree.",
+    "target_word": "tree",
+    "latency": 0.81,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "",
+    "target_word": "chair",
+    "latency": 1.57,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "you",
+    "target_word": "chair",
+    "latency": 1.38,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "you",
+    "target_word": "chair",
+    "latency": 0.81,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's like a chair.",
+    "target_word": "chair",
+    "latency": 1.34,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it a banana?",
+    "target_word": "apple",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's a it's it's an L",
+    "target_word": "apple",
+    "latency": 2.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Oh, it's like, um, like, like an apple.",
+    "target_word": "apple",
+    "latency": 1.38,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a bush.",
+    "target_word": "car",
+    "latency": 0.87,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a car.",
+    "target_word": "car",
+    "latency": 3.7,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a plant.",
+    "target_word": "tree",
+    "latency": 0.87,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "it's it's like like um like um oftentimes",
+    "target_word": "tree",
+    "latency": 0.7,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Hmm. It's um, a tree.",
+    "target_word": "tree",
+    "latency": 2.7,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like um a hair",
+    "target_word": "chair",
+    "latency": 2.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "it's um it's an ammo",
+    "target_word": "apple",
+    "latency": 1.33,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "it's like the thing the crunchy thing you eat like the fruit",
+    "target_word": "apple",
+    "latency": 2.12,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's a banana.",
+    "target_word": "apple",
+    "latency": 5.94,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's an apple.",
+    "target_word": "apple",
+    "latency": 2.68,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a vehicle.",
+    "target_word": "car",
+    "latency": 0.95,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "",
+    "target_word": "tree",
+    "latency": 0.94,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "with a plant.",
+    "target_word": "tree",
+    "latency": 0.91,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Um, it's um, um, t, t.",
+    "target_word": "tree",
+    "latency": 2.29,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a table.",
+    "target_word": "chair",
+    "latency": 0.92,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's like a share",
+    "target_word": "chair",
+    "latency": 0.64,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Like a chair.",
+    "target_word": "chair",
+    "latency": 3.98,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a fruit.",
+    "target_word": "apple",
+    "latency": 0.99,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "it's like the red the red thing you eat",
+    "target_word": "apple",
+    "latency": 1.41,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Um It's",
+    "target_word": "apple",
+    "latency": 1.47,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it an apple?",
+    "target_word": "apple",
+    "latency": 2.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a vehicle.",
+    "target_word": "car",
+    "latency": 1.91,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "it's like an auto",
+    "target_word": "car",
+    "latency": 1.61,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's a car.",
+    "target_word": "car",
+    "latency": 1.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's like a plant.",
+    "target_word": "tree",
+    "latency": 1.12,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Like um... like um... like um... a bee.",
+    "target_word": "tree",
+    "latency": 1.71,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's a tree.",
+    "target_word": "tree",
+    "latency": 1.91,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a share.",
+    "target_word": "chair",
+    "latency": 0.9,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's um... um...",
+    "target_word": "chair",
+    "latency": 2.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a chair.",
+    "target_word": "chair",
+    "latency": 3.06,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "This is better. Do you want an extra share? No, that's fine. Okay, do you want anything? What are you going to do? Is this an apple?",
+    "target_word": "apple",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Maybe. Maybe the bit. Um, is it a vehicle?",
+    "target_word": "car",
+    "latency": 0.99,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's like a bar.",
+    "target_word": "car",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Oh, it's like the plant you find in a park.",
+    "target_word": "tree",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's a tea?",
+    "target_word": "tree",
+    "latency": 0.76,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "",
+    "target_word": "chair",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "It's a share.",
+    "target_word": "chair",
+    "latency": 1.09,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Sorry, sorry, hi.",
+    "target_word": "chair",
+    "latency": 0.76,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a chair.",
+    "target_word": "chair",
+    "latency": 1.03,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "So",
+    "target_word": "apple",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's an F-O",
+    "target_word": "apple",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it an e-pal?",
+    "target_word": "apple",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's an apple.",
+    "target_word": "apple",
+    "latency": 0.77,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a vehicle.",
+    "target_word": "car",
+    "latency": 1.13,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's a car.",
+    "target_word": "car",
+    "latency": 0.81,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "They're free.",
+    "target_word": "tree",
+    "latency": 1.04,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's a tree.",
+    "target_word": "tree",
+    "latency": 0.83,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a share.",
+    "target_word": "chair",
+    "latency": 1.08,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's a chair",
+    "target_word": "chair",
+    "latency": 0.96,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's an echo.",
+    "target_word": "apple",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's an apple.",
+    "target_word": "apple",
+    "latency": 0.76,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Is it a crop?",
+    "target_word": "car",
+    "latency": 1.05,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "afar",
+    "target_word": "car",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's a true",
+    "target_word": "tree",
+    "latency": 1.05,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's a re.",
+    "target_word": "tree",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Um... It's a tree?",
+    "target_word": "tree",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Chair.",
+    "target_word": "chair",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "recommend one people",
+    "target_word": "apple",
+    "latency": 1.06,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Something you... you... like you... you move with?",
+    "target_word": "car",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Yeah. I don't know, man.",
+    "target_word": "car",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a car.",
+    "target_word": "car",
+    "latency": 1.05,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Yoo-hoo! It's a ti ti ti ti ti ti! Subscribe to Bikini Clips!",
+    "target_word": "tree",
+    "latency": 1.09,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's free.",
+    "target_word": "tree",
+    "latency": 1.11,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Judy in the background. Tree.",
+    "target_word": "tree",
+    "latency": 0.81,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "There",
+    "target_word": "chair",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "",
+    "target_word": "apple",
+    "latency": 5.47,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "Uh, just... Um...",
+    "target_word": "apple",
+    "latency": 1.18,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Banana",
+    "target_word": "apple",
+    "latency": 2.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Uhhh.... App p... App pool...",
+    "target_word": "apple",
+    "latency": 1.51,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "A car!",
+    "target_word": "car",
+    "latency": 2.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a type of plant.",
+    "target_word": "tree",
+    "latency": 2.29,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "It's a rose.",
+    "target_word": "tree",
+    "latency": 1.19,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "errrrrr, that's sure erm..",
+    "target_word": "tree",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's the tree.",
+    "target_word": "tree",
+    "latency": 5.63,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Share",
+    "target_word": "chair",
+    "latency": 1.09,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "It's something to sit on.",
+    "target_word": "chair",
+    "latency": 2.29,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "",
+    "target_word": "chair",
+    "latency": 5.68,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "SILENCE"
+  },
+  {
+    "transcript": "It's a chair.",
+    "target_word": "chair",
+    "latency": 2.23,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "I mean I see something I can eat. Yeah.",
+    "target_word": "apple",
+    "latency": 1.35,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "I think it's a pair.",
+    "target_word": "apple",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "I don't know, I thought it was a pear. Is it a banana?",
+    "target_word": "apple",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Hmm, an apple?",
+    "target_word": "apple",
+    "latency": 0.94,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Um hte uhhhh",
+    "target_word": "car",
+    "latency": 1.08,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's red.",
+    "target_word": "car",
+    "latency": 1.06,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "— A taxi?",
+    "target_word": "car",
+    "latency": 1.05,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Fangما attacked naro",
+    "target_word": "car",
+    "latency": 1.27,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a plant.",
+    "target_word": "tree",
+    "latency": 0.92,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "I think apples grow on this.",
+    "target_word": "tree",
+    "latency": 0.75,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "I don't know.",
+    "target_word": "tree",
+    "latency": 0.79,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "A tree.",
+    "target_word": "tree",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "I think that's a share.",
+    "target_word": "chair",
+    "latency": 1.52,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's this thing you sit on and maybe you eat while you sit on it or you study.",
+    "target_word": "chair",
+    "latency": 0.8,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "Yeah, share.",
+    "target_word": "chair",
+    "latency": 1.03,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "I know you sit on it, you just said that.",
+    "target_word": "chair",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "just so parents",
+    "target_word": "apple",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "disappear.",
+    "target_word": "apple",
+    "latency": 1.02,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "Is it an orange?",
+    "target_word": "apple",
+    "latency": 0.75,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Apple? Apple?",
+    "target_word": "apple",
+    "latency": 0.79,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "",
+    "target_word": "car",
+    "latency": 1.03,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "",
+    "target_word": "car",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "A park",
+    "target_word": "tree",
+    "latency": 1.01,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "you",
+    "target_word": "tree",
+    "latency": 0.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Bit and void. m calls again e",
+    "target_word": "tree",
+    "latency": 1.03,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "",
+    "target_word": "tree",
+    "latency": 0.99,
+    "asr_confidence": 0.0,
+    "speech_detected": false,
+    "label": "UNINTELLIGIBLE"
+  },
+  {
+    "transcript": "three",
+    "target_word": "tree",
+    "latency": 0.99,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "So",
+    "target_word": "chair",
+    "latency": 1.06,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Seat.",
+    "target_word": "chair",
+    "latency": 0.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "I don't know.",
+    "target_word": "chair",
+    "latency": 1.07,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Thank you.",
+    "target_word": "chair",
+    "latency": 0.74,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it like a banana?",
+    "target_word": "apple",
+    "latency": 1.26,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "it's maybe like um like the thing you eat like um apple",
+    "target_word": "apple",
+    "latency": 1.44,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Um...",
+    "target_word": "car",
+    "latency": 1.88,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "brah blah blah blah",
+    "target_word": "car",
+    "latency": 2.85,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "So it's a bus.",
+    "target_word": "car",
+    "latency": 1.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Is it a car?",
+    "target_word": "car",
+    "latency": 1.59,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "It's a plant, a green plant.",
+    "target_word": "tree",
+    "latency": 0.96,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "it's um it's um it's a",
+    "target_word": "tree",
+    "latency": 1.21,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Is it a trick?",
+    "target_word": "tree",
+    "latency": 1.84,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Oh, it's a tree, a tree.",
+    "target_word": "tree",
+    "latency": 2.42,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "this this is you sit on it you sit on it",
+    "target_word": "chair",
+    "latency": 1.76,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CIRCUMLOCUTION"
+  },
+  {
+    "transcript": "It's like... like... air.",
+    "target_word": "chair",
+    "latency": 1.57,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Well, it's like a stool.",
+    "target_word": "chair",
+    "latency": 2.09,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Oh, it's a chair.",
+    "target_word": "chair",
+    "latency": 1.44,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "NEPL",
+    "target_word": "apple",
+    "latency": 1.79,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "CORRECT"
+  },
+  {
+    "transcript": "Tire.",
+    "target_word": "car",
+    "latency": 1.05,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Buh, referees",
+    "target_word": "car",
+    "latency": 0.89,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "woop woop woop Yeah.",
+    "target_word": "car",
+    "latency": 9.49,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "Kick. Jet, jet.",
+    "target_word": "car",
+    "latency": 4.39,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "BUSH!",
+    "target_word": "tree",
+    "latency": 1.88,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a trunk.",
+    "target_word": "tree",
+    "latency": 1.73,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Re. Re.",
+    "target_word": "tree",
+    "latency": 3.0,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  },
+  {
+    "transcript": "3",
+    "target_word": "tree",
+    "latency": 1.28,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a stool.",
+    "target_word": "chair",
+    "latency": 0.93,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "Wood",
+    "target_word": "chair",
+    "latency": 1.22,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "SEMANTIC_ERROR"
+  },
+  {
+    "transcript": "So fun.",
+    "target_word": "chair",
+    "latency": 5.44,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PARTIAL_ATTEMPT"
+  },
+  {
+    "transcript": "It's a char.",
+    "target_word": "chair",
+    "latency": 1.65,
+    "asr_confidence": 0.0,
+    "speech_detected": true,
+    "label": "PHONOLOGICAL_ERROR"
+  }
+]

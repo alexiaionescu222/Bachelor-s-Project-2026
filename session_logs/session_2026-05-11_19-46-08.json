@@ -1,0 +1,114 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 228,
+    "mean_attempts_to_correct": 2.0,
+    "feedback_distribution": {
+      "ELI_CIR": 2,
+      "SEM": 2,
+      "CON": 4
+    },
+    "error_type_distribution": {
+      "CIRCUMLOCUTION": 2,
+      "SEMANTIC_ERROR": 1,
+      "CORRECT": 4,
+      "SILENCE": 1
+    },
+    "cue_effectiveness": {
+      "ELI_CIR": {
+        "resolved": 0,
+        "total": 2,
+        "pct": 0
+      },
+      "SEM": {
+        "resolved": 2,
+        "total": 2,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778521396.078,
+      "transcript": "like the thing you eat with",
+      "latency": 0.88,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "fork",
+      "attempt": 2,
+      "timestamp": 1778521411.452,
+      "transcript": "like a spoon",
+      "latency": 0.98,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "fork",
+      "attempt": 3,
+      "timestamp": 1778521427.398,
+      "transcript": "Is it like a fork?",
+      "latency": 1.6,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778521453.498,
+      "transcript": "Like a chair.",
+      "latency": 1.29,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778521490.343,
+      "transcript": "Is it um an umbrella?",
+      "latency": 0.88,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778521520.517,
+      "transcript": "Some like a thing you call someone with",
+      "latency": 0.98,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "telephone",
+      "attempt": 2,
+      "timestamp": 1778521534.062,
+      "transcript": "Um, a full full...",
+      "latency": 2.11,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "telephone",
+      "attempt": 3,
+      "timestamp": 1778521548.822,
+      "transcript": "Is it like a phone?",
+      "latency": 1.73,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

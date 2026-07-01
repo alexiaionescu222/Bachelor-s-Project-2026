@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 281,
+    "mean_attempts_to_correct": 1.75,
+    "feedback_distribution": {
+      "CLR": 1,
+      "CON": 4,
+      "ELI": 1,
+      "ELI_CIR": 1
+    },
+    "error_type_distribution": {
+      "UNINTELLIGIBLE": 1,
+      "CORRECT": 4,
+      "PARTIAL_ATTEMPT": 1,
+      "CIRCUMLOCUTION": 1
+    },
+    "cue_effectiveness": {
+      "CLR": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      },
+      "ELI": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      },
+      "ELI_CIR": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778256145.851,
+      "transcript": "",
+      "latency": 2.59,
+      "asr_confidence": 0.0,
+      "error_type": "UNINTELLIGIBLE",
+      "feedback_given": "CLR",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "fork",
+      "attempt": 2,
+      "timestamp": 1778256171.548,
+      "transcript": "Is it like a fork?",
+      "latency": 1.68,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778256201.513,
+      "transcript": "Maybe like a table.",
+      "latency": 1.04,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1778256223.551,
+      "transcript": "It's like a chair.",
+      "latency": 2.97,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778256259.486,
+      "transcript": "It's like um like um umbrella",
+      "latency": 2.26,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778256295.836,
+      "transcript": "It's like a thing you call people on, something like that.",
+      "latency": 5.37,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR",
+      "feedback_text": null,
+      "item_resolved": null
+    },
+    {
+      "item": "telephone",
+      "attempt": 2,
+      "timestamp": 1778256323.059,
+      "transcript": "It's like a phone.",
+      "latency": 1.49,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON",
+      "feedback_text": null,
+      "item_resolved": null
+    }
+  ]
+}

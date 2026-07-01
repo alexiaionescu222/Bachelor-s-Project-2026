@@ -1,0 +1,217 @@
+{
+  "summary": {
+    "items_correct": 2,
+    "items_total": 4,
+    "session_duration_s": 497,
+    "feedback_distribution": {
+      "ELI_CIR": 3,
+      "ELI": 3,
+      "PHO": 3,
+      "CON": 2,
+      "SEM": 2,
+      "EXP": 2,
+      "ELI_SEM": 1
+    },
+    "error_type_distribution": {
+      "CIRCUMLOCUTION": 5,
+      "PARTIAL_ATTEMPT": 6,
+      "CORRECT": 2,
+      "SEMANTIC_ERROR": 2,
+      "PHONOLOGICAL_ERROR": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1781097348.284,
+      "transcript": "I mean I see something I can eat. Yeah.",
+      "latency": 1.35,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_CIR",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1781097364.216,
+      "transcript": "I think it's a pear.",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1781097383.413,
+      "transcript": "I don't know, I thought it was a pear. Is it a banana?",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "apple",
+      "attempt": 4,
+      "timestamp": 1781097400.729,
+      "transcript": "Hmm, an apple?",
+      "latency": 0.94,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1781097459.223,
+      "transcript": "Um its a uhhhh",
+      "latency": 1.08,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1781097475.184,
+      "transcript": "It's red.",
+      "latency": 1.06,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "car",
+      "attempt": 3,
+      "timestamp": 1781097517.502,
+      "transcript": " A taxi?",
+      "latency": 1.05,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "car",
+      "attempt": 4,
+      "timestamp": 1781097556.888,
+      "transcript": "Fang attacked naro",
+      "latency": 1.27,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "EXP",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1781097579.204,
+      "transcript": "It's a plant.",
+      "latency": 0.92,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1781097595.58,
+      "transcript": "I think apples grow on this.",
+      "latency": 0.75,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_CIR",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1781097613.987,
+      "transcript": "I don't know.",
+      "latency": 0.79,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1781097627.179,
+      "transcript": "A tree.",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1781097655.83,
+      "transcript": "I think that's a share.",
+      "latency": 1.52,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1781097677.785,
+      "transcript": "It's this thing you sit on and maybe you eat while you sit on it or you study.",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_CIR",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1781097691.901,
+      "transcript": "Yeah, share.",
+      "latency": 1.03,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "SEM",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 4,
+      "timestamp": 1781097711.272,
+      "transcript": "I know you sit on it, you just said that.",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "SEMANTIC_ERROR",
+      "feedback_given": "EXP",
+      "gold_label": "CIRCUMLOCUTION"
+    }
+  ]
+}

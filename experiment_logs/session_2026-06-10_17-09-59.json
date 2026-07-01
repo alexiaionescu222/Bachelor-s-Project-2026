@@ -1,0 +1,191 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 419,
+    "feedback_distribution": {
+      "ELI_SEM": 1,
+      "CON": 4,
+      "ELI": 3,
+      "SEM": 1,
+      "PHO": 3,
+      "ELI_CIR": 2
+    },
+    "error_type_distribution": {
+      "SEMANTIC_ERROR": 3,
+      "CORRECT": 4,
+      "PARTIAL_ATTEMPT": 5,
+      "CIRCUMLOCUTION": 2
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1781103867.751,
+      "transcript": "Is it like a banana?",
+      "latency": 1.26,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1781103894.613,
+      "transcript": "it's maybe like um like the thing you eat like um apple",
+      "latency": 1.44,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1781103922.088,
+      "transcript": "Um...",
+      "latency": 1.88,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1781103936.93,
+      "transcript": "brah blah blah blah",
+      "latency": 2.85,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "NEOLOGISM"
+    },
+    {
+      "item": "car",
+      "attempt": 3,
+      "timestamp": 1781103954.088,
+      "transcript": "So it's a bus.",
+      "latency": 1.0,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "car",
+      "attempt": 4,
+      "timestamp": 1781103968.372,
+      "transcript": "Is it a car?",
+      "latency": 1.59,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1781103999.968,
+      "transcript": "It's a plant, a green plant.",
+      "latency": 0.96,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_CIR",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1781104024.901,
+      "transcript": "it's um it's um it's a",
+      "latency": 1.21,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1781104038.829,
+      "transcript": "Is it a trick?",
+      "latency": 1.84,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1781104083.238,
+      "transcript": "Oh, it's a tree, a tree.",
+      "latency": 2.42,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1781104119.786,
+      "transcript": "this this is you sit on it you sit on it",
+      "latency": 1.76,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1781104140.668,
+      "transcript": "It's like... like... air.",
+      "latency": 1.57,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "ELI",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1781104161.45,
+      "transcript": "Well, it's like a stool.",
+      "latency": 2.09,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "SEMANTIC_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 4,
+      "timestamp": 1781104174.201,
+      "transcript": "Oh, it's a chair.",
+      "latency": 1.44,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    }
+  ]
+}

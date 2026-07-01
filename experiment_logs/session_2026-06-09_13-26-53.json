@@ -1,0 +1,180 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 408,
+    "feedback_distribution": {
+      "WAIT": 1,
+      "SEM": 3,
+      "PHO": 3,
+      "CON": 4,
+      "ELI_SEM": 1,
+      "ELI_PHO": 1
+    },
+    "error_type_distribution": {
+      "SILENCE": 2,
+      "PARTIAL_ATTEMPT": 3,
+      "SEMANTIC_ERROR": 3,
+      "CORRECT": 4,
+      "PHONOLOGICAL_ERROR": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1781004084.323,
+      "transcript": "",
+      "latency": 5.47,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "error_type_rb": "SILENCE",
+      "feedback_given": "WAIT",
+      "gold_label": "SILENCE"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1781004103.641,
+      "transcript": "Uh, just... Um...",
+      "latency": 1.18,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1781004130.139,
+      "transcript": "Banana",
+      "latency": 2.02,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "apple",
+      "attempt": 4,
+      "timestamp": 1781004167.344,
+      "transcript": "Uhhh.... App p... App pool...",
+      "latency": 1.51,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1781004195.461,
+      "transcript": "A car!",
+      "latency": 2.49,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1781004226.799,
+      "transcript": "It's a type of plant.",
+      "latency": 2.29,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_SEM",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1781004243.596,
+      "transcript": "It's a rose.",
+      "latency": 1.19,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1781004282.253,
+      "transcript": "errrrrr, that's sure erm..",
+      "latency": 1.01,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1781004306.638,
+      "transcript": "It's the tree.",
+      "latency": 5.63,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1781004334.514,
+      "transcript": "Share",
+      "latency": 1.09,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_PHO",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1781004351.846,
+      "transcript": "It's something to sit on.",
+      "latency": 2.29,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "CIRCUMLOCUTION",
+      "feedback_given": "SEM",
+      "gold_label": "CIRCUMLOCUTION"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1781004369.511,
+      "transcript": "",
+      "latency": 5.68,
+      "asr_confidence": 0.0,
+      "error_type": "SILENCE",
+      "error_type_rb": "SILENCE",
+      "feedback_given": "PHO",
+      "gold_label": "SILENCE"
+    },
+    {
+      "item": "chair",
+      "attempt": 4,
+      "timestamp": 1781004388.791,
+      "transcript": "It's a chair.",
+      "latency": 2.23,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON",
+      "gold_label": "CORRECT"
+    }
+  ]
+}

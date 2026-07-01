@@ -1,0 +1,179 @@
+{
+  "summary": {
+    "items_correct": 1,
+    "items_total": 4,
+    "session_duration_s": 359,
+    "feedback_distribution": {
+      "CON": 1,
+      "ELI_SEM": 2,
+      "SEM": 4,
+      "PHO": 2,
+      "EXP": 3,
+      "ELI": 1
+    },
+    "error_type_distribution": {
+      "CORRECT": 1,
+      "SEMANTIC_ERROR": 4,
+      "PARTIAL_ATTEMPT": 6,
+      "PHONOLOGICAL_ERROR": 2
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1781108108.072,
+      "transcript": "NEPL",
+      "latency": 1.79,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "CON",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1781108131.972,
+      "transcript": "Tire.",
+      "latency": 1.05,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1781108161.13,
+      "transcript": "Buh, referees",
+      "latency": 0.89,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "car",
+      "attempt": 3,
+      "timestamp": 1781108220.936,
+      "transcript": "woop woop woop Yeah.",
+      "latency": 9.49,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "car",
+      "attempt": 4,
+      "timestamp": 1781108253.829,
+      "transcript": "Kick. Jet, jet.",
+      "latency": 4.39,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "EXP",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1781108271.816,
+      "transcript": "BUSH!",
+      "latency": 1.88,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1781108284.187,
+      "transcript": "It's a trunk.",
+      "latency": 1.73,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1781108301.182,
+      "transcript": "Re. Re.",
+      "latency": 3.0,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "SEM",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1781108314.382,
+      "transcript": "3",
+      "latency": 1.28,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "EXP",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1781108331.354,
+      "transcript": "It's a stool.",
+      "latency": 0.93,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1781108342.363,
+      "transcript": "Wood",
+      "latency": 1.22,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM",
+      "gold_label": "SEMANTIC_ERROR"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1781108359.322,
+      "transcript": "So fun.",
+      "latency": 5.44,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO",
+      "gold_label": "PARTIAL_ATTEMPT"
+    },
+    {
+      "item": "chair",
+      "attempt": 4,
+      "timestamp": 1781108370.505,
+      "transcript": "It's a char.",
+      "latency": 1.65,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "EXP",
+      "gold_label": "PHONOLOGICAL_ERROR"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 296,
+    "mean_attempts_to_correct": 1.5,
+    "feedback_distribution": {
+      "ELI": 1,
+      "SEM": 1,
+      "CON": 4
+    },
+    "error_type_distribution": {
+      "PARTIAL_ATTEMPT": 2,
+      "CORRECT": 4
+    },
+    "cue_effectiveness": {
+      "ELI": {
+        "resolved": 0,
+        "total": 1,
+        "pct": 0
+      },
+      "SEM": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "fork",
+      "attempt": 1,
+      "timestamp": 1778515312.703,
+      "transcript": "Is it Medien markings, a typo?",
+      "latency": 1.69,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "fork",
+      "attempt": 2,
+      "timestamp": 1778515375.651,
+      "transcript": "is it? i'm like a a fa.. fi.. fa...",
+      "latency": 1.84,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "fork",
+      "attempt": 3,
+      "timestamp": 1778515407.967,
+      "transcript": "Oh, it's like, fork, fork, fork.",
+      "latency": 6.01,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778515441.624,
+      "transcript": "um it's um cha cha cha cha",
+      "latency": 1.47,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "umbrella",
+      "attempt": 1,
+      "timestamp": 1778515472.311,
+      "transcript": "and the thing you use umbrella",
+      "latency": 1.15,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "telephone",
+      "attempt": 1,
+      "timestamp": 1778515506.328,
+      "transcript": "It's like a phone.",
+      "latency": 3.19,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

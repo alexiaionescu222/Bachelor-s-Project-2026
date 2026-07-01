@@ -1,0 +1,133 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 300,
+    "feedback_distribution": {
+      "ELI": 1,
+      "SEM": 1,
+      "PHO": 1,
+      "CON": 4,
+      "ELI_SEM": 1,
+      "ELI_PHO": 2
+    },
+    "error_type_distribution": {
+      "PARTIAL_ATTEMPT": 3,
+      "CORRECT": 4,
+      "SEMANTIC_ERROR": 1,
+      "PHONOLOGICAL_ERROR": 2
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1780666902.615,
+      "transcript": "So",
+      "latency": 1.02,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1780666919.352,
+      "transcript": "It's an F-O",
+      "latency": 0.8,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1780666937.242,
+      "transcript": "Is it an e-pal?",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "apple",
+      "attempt": 4,
+      "timestamp": 1780666951.113,
+      "transcript": "It's an apple.",
+      "latency": 0.77,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1780666977.02,
+      "transcript": "It's a vehicle.",
+      "latency": 1.13,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1780666991.749,
+      "transcript": "It's a car.",
+      "latency": 0.81,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1780667025.218,
+      "transcript": "They're free.",
+      "latency": 1.04,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "ELI_PHO"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1780667041.622,
+      "transcript": "It's a tree.",
+      "latency": 0.83,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1780667068.294,
+      "transcript": "It's a share.",
+      "latency": 1.08,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "ELI_PHO"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1780667083.444,
+      "transcript": "It's a chair",
+      "latency": 0.96,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

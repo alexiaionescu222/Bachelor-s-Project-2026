@@ -1,0 +1,16 @@
+openai-whisper
+sentence-transformers
+scikit-learn
+numpy
+joblib
+
+sounddevice
+pronouncing
+
+wordfreq
+pynput
+
+autobahn
+twisted
+
+Pillow

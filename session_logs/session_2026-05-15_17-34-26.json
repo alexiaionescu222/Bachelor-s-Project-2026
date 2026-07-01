@@ -1,0 +1,172 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "accuracy_pct": 100,
+    "session_duration_s": 592,
+    "mean_attempts_to_correct": 3.0,
+    "feedback_distribution": {
+      "ELI_SEM": 2,
+      "ELI_CIR": 1,
+      "CON": 4,
+      "ELI": 2,
+      "SEM": 2,
+      "PHO": 1
+    },
+    "error_type_distribution": {
+      "SEMANTIC_ERROR": 4,
+      "CIRCUMLOCUTION": 1,
+      "CORRECT": 4,
+      "PARTIAL_ATTEMPT": 3
+    },
+    "cue_effectiveness": {
+      "ELI_SEM": {
+        "resolved": 1,
+        "total": 2,
+        "pct": 50
+      },
+      "ELI_CIR": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      },
+      "ELI": {
+        "resolved": 0,
+        "total": 2,
+        "pct": 0
+      },
+      "SEM": {
+        "resolved": 1,
+        "total": 2,
+        "pct": 50
+      },
+      "PHO": {
+        "resolved": 1,
+        "total": 1,
+        "pct": 100
+      }
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1778858760.647,
+      "transcript": "Is it an ammo?",
+      "latency": 1.38,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "apple",
+      "attempt": 2,
+      "timestamp": 1778858786.525,
+      "transcript": "like the thing you eat, like the fruit",
+      "latency": 2.59,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "apple",
+      "attempt": 3,
+      "timestamp": 1778858814.842,
+      "transcript": "um it's like um app apple",
+      "latency": 8.3,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1778858897.042,
+      "transcript": "It's like a vehicle.",
+      "latency": 1.49,
+      "asr_confidence": 0.0,
+      "error_type": "SEMANTIC_ERROR",
+      "feedback_given": "ELI_SEM"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1778858917.737,
+      "transcript": "It's like a bar.",
+      "latency": 4.81,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1778859009.833,
+      "transcript": "Um.. It's um...",
+      "latency": 0.98,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1778859028.892,
+      "transcript": "It's like a bee.",
+      "latency": 1.83,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1778859050.351,
+      "transcript": "it's like a like a key",
+      "latency": 2.6,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "tree",
+      "attempt": 4,
+      "timestamp": 1778859064.825,
+      "transcript": "Oh, it's a tree!",
+      "latency": 0.98,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1778859137.353,
+      "transcript": "So, like a... A hit there.",
+      "latency": 1.0,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI"
+    },
+    {
+      "item": "chair",
+      "attempt": 2,
+      "timestamp": 1778859190.29,
+      "transcript": "it's a torture",
+      "latency": 2.66,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "feedback_given": "SEM"
+    },
+    {
+      "item": "chair",
+      "attempt": 3,
+      "timestamp": 1778859205.876,
+      "transcript": "It's a chair.",
+      "latency": 1.49,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "feedback_given": "CON"
+    }
+  ]
+}

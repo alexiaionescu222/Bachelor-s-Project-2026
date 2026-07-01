@@ -1,0 +1,108 @@
+{
+  "summary": {
+    "items_correct": 4,
+    "items_total": 4,
+    "session_duration_s": 430,
+    "feedback_distribution": {
+      "CON": 4,
+      "ELI_CIR": 3,
+      "PHO": 1
+    },
+    "error_type_distribution": {
+      "CORRECT": 4,
+      "CIRCUMLOCUTION": 2,
+      "PARTIAL_ATTEMPT": 1,
+      "PHONOLOGICAL_ERROR": 1
+    }
+  },
+  "trials": [
+    {
+      "item": "apple",
+      "attempt": 1,
+      "timestamp": 1780668337.785,
+      "transcript": "recommend one people",
+      "latency": 1.06,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "car",
+      "attempt": 1,
+      "timestamp": 1780668377.4,
+      "transcript": "Something you... you... like you... you move with?",
+      "latency": 1.02,
+      "asr_confidence": 0.0,
+      "error_type": "CIRCUMLOCUTION",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "car",
+      "attempt": 2,
+      "timestamp": 1780668419.174,
+      "transcript": "Yeah. I don't know, man.",
+      "latency": 1.07,
+      "asr_confidence": 0.0,
+      "error_type": "PARTIAL_ATTEMPT",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "car",
+      "attempt": 3,
+      "timestamp": 1780668437.877,
+      "transcript": "It's a car.",
+      "latency": 1.05,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "tree",
+      "attempt": 1,
+      "timestamp": 1780668553.279,
+      "transcript": "Yoo-hoo! It's a ti ti ti ti ti ti! Subscribe to Bikini Clips!",
+      "latency": 1.09,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PARTIAL_ATTEMPT",
+      "feedback_given": "ELI_CIR"
+    },
+    {
+      "item": "tree",
+      "attempt": 2,
+      "timestamp": 1780668573.409,
+      "transcript": "It's free.",
+      "latency": 1.11,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "PHO"
+    },
+    {
+      "item": "tree",
+      "attempt": 3,
+      "timestamp": 1780668613.959,
+      "transcript": "Judy in the background. Tree.",
+      "latency": 0.81,
+      "asr_confidence": 0.0,
+      "error_type": "CORRECT",
+      "error_type_rb": "CORRECT",
+      "feedback_given": "CON"
+    },
+    {
+      "item": "chair",
+      "attempt": 1,
+      "timestamp": 1780668640.157,
+      "transcript": "There",
+      "latency": 1.02,
+      "asr_confidence": 0.0,
+      "error_type": "PHONOLOGICAL_ERROR",
+      "error_type_rb": "PHONOLOGICAL_ERROR",
+      "feedback_given": "CON"
+    }
+  ]
+}
